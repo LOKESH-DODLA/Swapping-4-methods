@@ -1,3 +1,7 @@
+
+//   Swapping two numbers 4 methods 
+
+
 public class swapping
 {
 	public static void main(String[]args)
