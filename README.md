@@ -7,3 +7,8 @@ Swapping two numbers with 4 methods
       method 1)  Addition and Subration 
       method 2)  product and division 
 3)   useing Logical Operation  
+
+
+
+
+Both in JAVA and C PROGRAMMING
